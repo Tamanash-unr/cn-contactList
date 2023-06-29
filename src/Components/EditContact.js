@@ -1,4 +1,3 @@
-// import React,{ onEffect } from 'react';
 import './EditContact.css'
 
 // ---- Component for Edit Contact Popup ----
